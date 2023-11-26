@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alejapamplona
 - 👀 I’m interested in ...learning
 - 🌱 I’m currently learning ... HTML, Css and Js
+- @alecaptura
 
 
 <!---
